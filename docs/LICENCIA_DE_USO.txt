@@ -1,0 +1,69 @@
+LICENCIA DE USO DE SOFTWARE
+"Descarga de Certificados y Planos"
+
+Este documento es el acuerdo de licencia entre Stiven Sanchez y Elizabeth Gonzalez, en adelante "el Desarrollador", y la persona o entidad que
+recibe el programa, en adelante "el Cliente".
+
+1. OBJETO
+   El Desarrollador otorga al Cliente una licencia de uso sobre el
+   programa "Descarga de Certificados y Planos" (en adelante, "el
+   Software"), incluyendo su interfaz, código, documentación y
+   actualizaciones que el Desarrollador decida entregar.
+
+2. PROPIEDAD
+   El Software se LICENCIA, no se VENDE. Todos los derechos de autor,
+   código fuente y propiedad intelectual del Software siguen siendo del
+   Desarrollador en todo momento. El Cliente no adquiere ningún derecho
+   de propiedad sobre el Software por usarlo ni por pagar por su uso.
+
+3. ALCANCE DE LA LICENCIA
+   El Cliente puede usar el Software para sus propias operaciones
+   internas, en la cantidad de equipos que se haya acordado (según la
+   clave de activación entregada). El Cliente NO puede:
+     a) Revender, sublicenciar, alquilar o transferir el Software a
+        terceros sin autorización escrita del Desarrollador.
+     b) Copiar, distribuir o compartir el código fuente o el ejecutable
+        con personas ajenas al Cliente.
+     c) Modificar, decompilar o hacer ingeniería inversa del Software,
+        salvo en la medida en que la ley aplicable lo permita
+        expresamente y de forma irrenunciable.
+     d) Quitar, ocultar o alterar avisos de derechos de autor o del
+        sistema de activación del Software.
+
+4. ACTIVACIÓN Y VIGENCIA
+   El Software requiere una clave de activación para funcionar. Esa
+   clave tiene una fecha de vigencia acordada entre las partes. Al
+   vencer, el Software deja de funcionar hasta que se renueve la
+   licencia con el Desarrollador. El incumplimiento de los términos de
+   pago acordados puede resultar en la no renovación de la clave.
+
+5. SIN GARANTÍA
+   El Software se entrega "tal cual". El Desarrollador no garantiza que
+   el Software esté libre de errores ni que su funcionamiento no se vea
+   afectado por cambios futuros en sitios web, portales o servicios de
+   terceros con los que el Software interactúa ( el portal del Registro Inmobiliario), ya que dichos cambios están fuera      del control del Desarrollador.
+
+6. LÍMITE DE RESPONSABILIDAD
+   El Desarrollador no será responsable por daños indirectos, pérdida de
+   datos, o perjuicios derivados del uso o la imposibilidad de uso del
+   Software, más allá del monto efectivamente pagado por el Cliente por
+   la licencia.
+
+7. SOPORTE Y MANTENIMIENTO
+   El soporte, corrección de errores y ajustes por cambios en sitios de
+   terceros se rigen por lo acordado por separado entre las partes (por
+   ejemplo, un plan de mantenimiento), y no están incluidos
+   automáticamente en esta licencia salvo que se indique lo contrario.
+
+8. TERMINACIÓN
+   Esta licencia termina automáticamente si el Cliente incumple
+   cualquiera de los términos de la sección 3. Al terminar, el Cliente
+   debe dejar de usar el Software y eliminar todas sus copias.
+
+9. LEY APLICABLE
+   Este acuerdo se rige por las leyes de la República Dominicana.
+
+
+Fecha de entrega: ______________________
+Cliente: ______________________________
+Desarrollador: Stiven Sánchez y Elizabeth González
