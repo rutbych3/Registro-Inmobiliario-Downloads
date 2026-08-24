@@ -41,7 +41,7 @@ recibe el programa, en adelante "el Cliente".
    El Software se entrega "tal cual". El Desarrollador no garantiza que
    el Software esté libre de errores ni que su funcionamiento no se vea
    afectado por cambios futuros en sitios web, portales o servicios de
-   terceros con los que el Software interactúa ( el portal del Registro Inmobiliario), ya que dichos cambios están fuera      del control del Desarrollador.
+   terceros con los que el Software interactúa ( el portal del Registro Inmobiliario), ya que dichos cambios están fuera del control del Desarrollador.
 
 6. LÍMITE DE RESPONSABILIDAD
    El Desarrollador no será responsable por daños indirectos, pérdida de
@@ -63,7 +63,4 @@ recibe el programa, en adelante "el Cliente".
 9. LEY APLICABLE
    Este acuerdo se rige por las leyes de la República Dominicana.
 
-
-Fecha de entrega: ______________________
-Cliente: ______________________________
-Desarrollador: Stiven Sánchez y Elizabeth González
+Desarrollador: Stiven Sánchez y Elizabeth González.
