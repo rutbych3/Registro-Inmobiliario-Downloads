@@ -2,7 +2,6 @@
 
 Repositorio público destinado **únicamente a distribuir versiones compiladas** de `DescargaCertificadosYPlanos`.
 
-El código fuente y las herramientas administrativas se mantienen en un repositorio privado.
 
 ## Descargar
 
