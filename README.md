@@ -11,7 +11,7 @@ Ve a [Releases](../../releases) y descarga el `.exe` de la versión que correspo
 
 - Windows 10 o posterior.
 - Conexión a internet para la activación inicial y verificaciones periódicas.
-- Microsoft Word o LibreOffice si se importan documentos `.doc`/`.docx`.
+- Microsoft Office o LibreOffice si se importan documentos `.doc`/`.docx`/`.xlsx`.
 
 ## Licencia
 
